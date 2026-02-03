@@ -2,5 +2,5 @@
    git add .
    git commit -m "Analisis_Data awal"
    git branch -M main
-   git remote add origin https://github.com/USERNAME/analisis_data.git
+   git remote add origin https://github.com/Arifmaulana25/analisis_data.git
    git push -u origin main
